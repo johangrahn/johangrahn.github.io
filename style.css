@@ -1,0 +1,22 @@
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Gochi Hand', cursive;
+    margin-bottom: 3px;
+}
+
+p, a, h3, blockquote, li {
+    font-family: Cambria, sans-serif;
+}
+body {
+    padding: 50px;
+}
+
+main {
+    max-width: 800px;
+}
+
+.subtitle {
+    text-align: center;
+}
